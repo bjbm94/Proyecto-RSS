@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Página del proyecto HTML-CSS</title>
+        <link>index.html</link>
+        <description>Info. sobre lenguajes de marca</description>
+        <item>
+            <title>HTML</title>
+            <link>HTML.html</link>
+            <description>Info. sobre HTML</description>
+        </item>
+        <item>
+            <title>CSS</title>
+            <link></link>
+            <description>Info. sobre CSS</description>
+        </item>
+        <item>
+            <title>XML</title>
+            <link></link>
+            <description>Info. sobre XML</description>
+        </item>
+        <item>
+            <title>XPath</title>
+            <link></link>
+            <description>Info. sobre XPath</description>
+        </item>
+        <item>
+            <title>XQuery</title>
+            <link></link>
+            <description>Info. sobre XQuery</description>
+        </item>
+        <item>
+            <title>Tabla</title>
+            <link></link>
+            <description>Tabla comparativa entre lenguajes de marca y lenguajes de programación</description>
+        </item>
+    </channel>
+</rss>
